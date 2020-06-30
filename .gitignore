@@ -1,6 +1,4 @@
+assembly/assembly.exe
 .idea/.gitignore
 .idea/kyros.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-assembly/assembly.exe
+.idea/
